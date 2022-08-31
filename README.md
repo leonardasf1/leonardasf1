@@ -19,7 +19,7 @@ Flutter . Python . Bash . Go . Rust
 
 ### 🛠 Tools:
 
-git . github . Gimp . Photoshop . Sublime Text . VS Code
+git . github . Gimp . Photoshop . nano . vim . shell . Sublime Text . VS Code
 
 ---
 
