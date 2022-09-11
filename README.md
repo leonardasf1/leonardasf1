@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on : 
 <img alt="NextJS" src="https://nextjs.org/static/favicon/favicon-16x16.png" /> NextJS . 
 <img alt="GraphQL" src="https://graphql.org/img/logo.svg" height="16px" /> GraphQL . 
- Vue
+<img alt="Vue" src="https://hsto.org/getpro/moikrug/uploads/redactor_image/09092022/images/b95aa8ccbb2c82f4cdcdb4923d6eb2f9.png" /> Vue
 
 - 🌱 I’m currently learning : 
 <img alt="nest.js" src="https://docs.nestjs.com/assets/favicons/favicon-16x16.png" /> Nest.js .
